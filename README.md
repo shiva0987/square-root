@@ -1,2 +1,2 @@
 # square-root
-my first repository on github
+my first and simple repository on github
